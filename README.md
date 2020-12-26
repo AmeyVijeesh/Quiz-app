@@ -19,7 +19,7 @@ This program has the more features than any other quiz app. Login, Levels, Stati
 
 - A timer for the questions to add a little more difficulty
 
-- At last, a pie chart is displayed alonng with your statistics.
+- At last, a pie chart is displayed along with your statistics.
 
 What else do you need for a quiz app? Let me know.
 
